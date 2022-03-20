@@ -1,7 +1,7 @@
 {
   "name": "sc",
   "version": "1.0.0",
-  "description": "",
+  "description": "forum",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/codigoferoz/SC.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Adrian Lopez <codigoferoz@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/codigoferoz/SC/issues"
